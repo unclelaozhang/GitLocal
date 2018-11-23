@@ -1227,3 +1227,4 @@ for each in str1:
         else:
             print(each, str1.count(each))
         list1.append(each)
+# Did a git test
